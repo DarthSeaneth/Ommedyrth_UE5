@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "OmmedyrthEditor Editor Win64 Development (Ommedyrth)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "C:\\Users\\mrsea\\Documents\\Unreal Projects\\Ommedyrth 5.2\\.vscode\\compileCommands_Ommedyrth.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "C:\\Users\\mrsea\\Documents\\Unreal Projects\\Ommedyrth 5.2\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
